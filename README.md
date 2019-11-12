@@ -1,2 +1,3 @@
-# CodeSnippets
-Code examples for blog https://weblogs.asp.net/dixin.
+# Blog code examples
+
+Moved to [Dixin/Blog](https://github.com/Dixin/Blog).
